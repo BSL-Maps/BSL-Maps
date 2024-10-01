@@ -1,0 +1,26 @@
+# FUNDING.yml
+
+# GitHub Sponsors
+github: 
+  - PaulBischoff
+  - DavidKramer
+  - MarcRettinger
+
+# Other funding platforms
+
+# Custom donation URL
+custom: 
+  - ["https://www.paypal.me/paulpaulus123", "Donate via PayPal"]
+
+# Patreon
+patreon: 
+  - BSLMapsProject
+
+# Open Collective
+open_collective: BSLMaps
+
+# Ko-fi
+ko_fi: BSLMapsProject
+
+# Buy Me a Coffee
+buymeacoffee: BSLMaps
