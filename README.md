@@ -1,7 +1,7 @@
 # 🗺️ BSL Maps - Dein Navigationssystem für die Berufsschule 🏫
 
 **Entwickler:**  
-👨🏾‍💻 Paul Bischoff, 👨🏻‍💻 David Kramer, 👨🏽‍💻 Marc Rettinger  
+👨🏾‍💻 [Paul Bischoff](https://github.com/PaulPaulus123), 👨🏻‍💻 David Kramer, 👨🏽‍💻 [Marc Rettinger](https://github.com/Marc12341)  
 Klasse: EIT12A
 
 ## Projektbeschreibung 📱
@@ -17,7 +17,7 @@ BSL Maps ist ein Navigationssystem speziell für unsere Berufsschule, das dir hi
 - **Standorterkennung**: Scanne einen NFC-Tag oder QR-Code und erfahre, wo du dich im Schulgebäude befindest. 📍
 - **Routenfindung**: Lass dir den Weg zu einem bestimmten Raum anzeigen – ideal für neue Schüler und Besucher! 🚪➡️
 - **Einfache Bedienung**: Benutzerfreundliches Interface, das schnell und unkompliziert zum Ziel führt. 👍
-- **Für die Berufsschule entwickelt**: Maßgeschneidert für die spezifischen Bedürfnisse unserer Berufsschule Launigen. 🎓
+- **Für die Berufsschule entwickelt**: Maßgeschneidert für die spezifischen Bedürfnisse unserer Berufsschule Lauingen. 🎓
 
 ## 🎯 Ziel des Projekts
 
