@@ -1,1 +1,1 @@
-Hier werden Tests abgespeichert bevor sie in das Projekt eingebaut werden.
+Hier werden Features abgespeichert bevor sie in das Projekt eingebaut werden.
