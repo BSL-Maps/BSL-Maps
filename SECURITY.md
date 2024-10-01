@@ -1,5 +1,3 @@
----
-
 # 🛡️ Sicherheitsrichtlinie für BSL Maps
 
 ## Sicherheitslücken melden
