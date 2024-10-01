@@ -1,0 +1,6 @@
+H:\IT-Projekt\IT-Projekt\bin\Debug\IT-Projekt.exe.config
+H:\IT-Projekt\IT-Projekt\bin\Debug\IT-Projekt.exe
+H:\IT-Projekt\IT-Projekt\bin\Debug\IT-Projekt.pdb
+H:\IT-Projekt\IT-Projekt\obj\Debug\IT-Projekt.csproj.CoreCompileInputs.cache
+H:\IT-Projekt\IT-Projekt\obj\Debug\IT-Projekt.exe
+H:\IT-Projekt\IT-Projekt\obj\Debug\IT-Projekt.pdb
