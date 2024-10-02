@@ -1,7 +1,7 @@
 # 🗺️ BSL Maps - Dein Navigationssystem für die Berufsschule 🏫
 
 **Entwickler:**  
-👨🏾‍💻 [Paul Bischoff](https://github.com/PaulPaulus123), 👨🏻‍💻 [David Kramer].(https://github.com/thisdavid), 👨🏽‍💻 [Marc Rettinger](https://github.com/Marc12341)  
+👨🏾‍💻 [Paul Bischoff](https://github.com/PaulPaulus123), 👨🏻‍💻 [David Kramer](https://github.com/thatdavid0451), 👨🏽‍💻 [Marc Rettinger](https://github.com/Marc12341)  
 Klasse: EIT12A
 
 ## Projektbeschreibung 📱
